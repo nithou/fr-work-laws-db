@@ -130,6 +130,8 @@ mcp_servers:
 
 ## Licence et attribution
 
+Deux couches, détaillées dans [`LICENSE.md`](LICENSE.md). Version courte :
+
 - Code du travail, Code de la sécurité sociale, conventions collectives : base LEGI et KALI de la DILA (Légifrance), [Licence Ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/), via les paquets `@socialgouv/legi-data` et `@socialgouv/kali-data`.
 - Fiches ministère du Travail : `@socialgouv/fiches-travail-data` (travail-emploi.gouv.fr).
 - Fiches service-public.fr : `@socialgouv/fiches-vdd` (DILA, Licence Ouverte).
