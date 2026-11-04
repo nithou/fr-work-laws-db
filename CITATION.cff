@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >-
+  Si vous utilisez ce corpus, citez-le comme ci-dessous. Conservez la mention de
+  source exigée par la Licence Ouverte 2.0 pour les textes officiels (voir
+  LICENSE) : « Source : Légifrance / DILA (base LEGI, base KALI) et
+  service-public.fr — Licence Ouverte 2.0 ».
+title: "Droit du travail français — base de connaissances"
+abstract: >-
+  Corpus Markdown du droit du travail français destiné aux assistants LLM au
+  service des salariés et des élus du CSE. Contient le Code du travail intégral
+  (11 418 articles), les extraits du Code de la sécurité sociale (1 944
+  articles), la convention Syntec (IDCC 1486) et la convention des sociétés
+  financières (IDCC 478) intégrales, 271 fiches du ministère du Travail et 556
+  fiches service-public.fr, avec fiches de synthèse, procédure prud'homale,
+  guide CSE, jurisprudence de principe et modèles de courriers. Chaque fichier
+  porte un en-tête YAML (source, chemin, version_au, origine) et un titre par
+  article pour un découpage déterministe. Instantané du 28 octobre 2026.
+type: dataset
+authors:
+  - name: "Nithou"
+    alias: "nithou"
+    website: "https://github.com/nithou"
+version: "2026.10.28"
+date-released: "2026-10-28"
+license: etalab-2.0
+repository-code: "https://github.com/nithou/fr-work-laws-db"
+keywords:
+  - droit du travail
+  - droit français
+  - Code du travail
+  - Légifrance
+  - conventions collectives
+  - Syntec
+  - IDCC 1486
+  - jurisprudence
+  - prud'hommes
+  - CSE
+  - base de connaissances juridique
+  - legal-rag
+  - MCP
+  - Model Context Protocol
