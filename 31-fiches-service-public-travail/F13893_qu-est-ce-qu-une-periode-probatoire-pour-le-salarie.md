@@ -1,0 +1,59 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F13893"
+titre: "Qu'est-ce qu'une période probatoire pour le salarié ?"
+theme: "Accueil particuliers > Travail - Formation > Recrutement dans le secteur privé > Qu'est-ce qu'une période probatoire pour le salarié ?"
+date: "2026-02-20"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F13893"
+---
+# Qu'est-ce qu'une période probatoire pour le salarié ?
+
+_Fiche service-public.fr F13893 — Accueil particuliers > Travail - Formation > Recrutement dans le secteur privé > Qu'est-ce qu'une période probatoire pour le salarié ? — mise à jour 2026-02-20. https://www.service-public.gouv.fr/particuliers/vosdroits/F13893_
+
+Des dispositions conventionnelles peuvent autoriser ou interdire l'employeur d'imposer une période probatoire à un salarié qui change de poste.
+
+Une période dite probatoire peut être mise en place si le salarié est amené à occuper un **nouveau poste** de travail **dans l'entreprise**.
+
+La période probatoire permet à l'employeur d'évaluer la **capacité** du salarié à **exercer** ses **nouvelles fonctions**.
+
+La période probatoire permet également au salarié de prendre connaissance de ses **compétences** dans ses **nouvelles attributions**.
+
+La période probatoire ne fait pas l'objet ****d'une définition légale****. Elle n'est **pas définie par le code du travail**. Mais des dispositions conventionnelles peuvent **autoriser ou interdire** l'employeur d'imposer une période probatoire à un salarié qui change de poste.
+
+La période probatoire peut être autorisé ou interdite :
+
+## Cas : La période probatoire est autorisée
+
+Mise en place de la période probatoire
+
+Si des dispositions conventionnelles prévoient la mise en place d'une période probatoire, cette période doit être prévue dans le contrat de travail initial du salarié.
+
+Le contrat de travail peut prévoir, par exemple, la durée de la période probatoire, son renouvellement éventuel et les conditions de rupture de cette période.
+
+En cas de mise en place d'une période probatoire, un avenant au contrat initial du salarié doit être établi.
+
+À la fin de la période probatoire, le salarié est affecté sur son nouveau poste.
+
+> **Attention** : Il ne faut pas confondre la période probatoire avec la période d'essai.
+
+Interruption de la période probatoire
+
+La période probatoire peut être interrompue par l'employeur s'il estime que le salarié ne donne pas satisfaction dans ses nouvelles fonctions.
+
+La période probatoire peut être également interrompue par le salarié s'il n'est pas satisfait par son nouveau poste.
+
+Il n'existe pas de délai dit de prévenance pour mettre fin à la période probatoire.
+
+Pour éviter tout litige, il est conseillé de formaliser la fin de la période probatoire, par lettre avec RAR ou mail par exemples.
+
+La rupture de la période probatoire a pour effet de replacer le salarié dans ses fonctions antérieures.
+
+À la différence de la période d'essai, la rupture de la période probatoire n'entraîne pas la rupture du contrat de travail.
+
+La rupture de la période probatoire ne peut pas être un motif valable de licenciement.
+
+> **Attention** : Un salarié protégé ne peut pas être replacé **automatiquement** par l'employeur dans ses fonctions antérieures. L'accord du salarié protégé est **obligatoire**. En l'absence d'accord du salarié protégé, l'employeur doit : - Soit maintenir sur son nouveau poste le salarié protégé - Soit saisir l'inspecteur du travail d'une demande d'autorisation administrative de licenciement du salarié protégé.
+
+## Cas : La période probatoire est interdite
+
+Dans ce cas, l'employeur **ne peut pas imposer** une période probatoire à l'occasion du changement de poste du salarié.

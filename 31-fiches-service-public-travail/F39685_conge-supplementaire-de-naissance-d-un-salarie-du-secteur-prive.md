@@ -1,0 +1,144 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F39685"
+titre: "Congé supplémentaire de naissance d’un salarié du secteur privé"
+theme: "Accueil particuliers > Travail - Formation > Congés dans le secteur privé > Congé supplémentaire de naissance d’un salarié du secteur privé"
+date: "2026-06-03"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F39685"
+---
+# Congé supplémentaire de naissance d’un salarié du secteur privé
+
+_Fiche service-public.fr F39685 — Accueil particuliers > Travail - Formation > Congés dans le secteur privé > Congé supplémentaire de naissance d’un salarié du secteur privé — mise à jour 2026-06-03. https://www.service-public.gouv.fr/particuliers/vosdroits/F39685_
+
+Le congé supplémentaire de naissance permet au salarié ou à la salariée devenant parent de bénéficier d’une période d’absence indemnisée.
+
+Le congé supplémentaire de naissance permet au salarié ou à la salariée devenant parent de s’occuper de son enfant durant ses premiers mois. Il s’ajoute aux congés existants (congé de maternité, congé de paternité et d’accueil de l’enfant et congé d’adoption) et ne les remplace pas. Le congé est indemnisé. Nous vous présentons les informations à connaître.
+
+## Qu’est-ce que le congé supplémentaire de naissance ?
+
+Le congé dit supplémentaire de naissance permet au salarié ou à la salariée devenant parent de bénéficier d’une période d’absence indemnisée.
+
+Le ou les parents d’un enfant né ou adopté peuvent bénéficier de ce congé **à compter du 1^er juillet 2026**.
+
+Le ou les parents d’un enfant né à compter du 1^er janvier 2026 (ou né prématurément mais pour lequel la naissance était prévue à compter du 1^er janvier 2026) peuvent en bénéficier dès le 1^er juillet 2026, à condition de respecter les conditions d’ouverture de droit et le délai de prévenance d'un mois auprès de l'employeur.
+
+C’est aussi le cas des parents adoptants d’enfants arrivés au foyer entre le 1^er janvier et le 30 juin 2026.
+
+Le congé supplémentaire de naissance **s’ajoute** aux congés existants (congé de maternité, congé de paternité et d’accueil de l’enfant et congé d’adoption) et ne les remplace pas.
+
+## Qui peut bénéficier du congé supplémentaire de naissance ?
+
+Le congé supplémentaire de naissance s’adresse à l’ensemble des **salariés en activité professionnelle** qui remplissent les **conditions d’ouverture de droit** à la suite de la naissance d’un enfant ou de l’accueil d’un enfant dans le cadre d’une adoption.
+
+Le congé supplémentaire de naissance est ouvert aux **2 parents**.
+
+Le salarié ou la salariée doit être dans l'une des situations suivantes :
+
+- Mère de l’enfant
+
+- Père de l'enfant
+- Conjoint ou concubin qui vit en couple avec la mère
+- Dans le cas d’un couple de femmes (mariées, pacsées ou en union libre) ayant fait une reconnaissance conjointe anticipée, mère qui n'a pas accouché.
+
+Pour bénéficier du congé supplémentaire de naissance, le salarié ou la salariée doit **avoir pris au préalable** son congé de maternité, son congé de paternité et d’accueil de l’enfant ou son congé d’adoption.
+
+> **À noter** : Ce congé est aussi accessible à l’ensemble des assurés actifs. Les travailleurs indépendants, les fonctionnaires, les agents contractuels de droit public, les artistes auteurs, les militaires, les non-salariés agricoles, les assurés des régimes spéciaux et les demandeurs d’emploi peuvent bénéficier du congé supplémentaire de naissance.
+
+## Quelle est la durée du congé supplémentaire de naissance ?
+
+Chaque parent peut bénéficier, selon son choix, de **1 ou 2 mois** de congé pris **simultanément** ou **en alternance** avec l’autre parent.
+
+Le congé supplémentaire de naissance peut être fractionné : il peut être pris en **2 périodes** non consécutives d’un mois.
+
+## Exemple
+
+Les 2 parents peuvent bénéficier du congé supplémentaire de naissance, l’un après l’autre ou bien durant la même période, pour une durée maximale de 2 mois en continu ou bien de deux fois 1 mois non consécutives.
+
+## Dans quel délai le congé supplémentaire de naissance doit-il être pris ?
+
+Cela dépend de date de naissance de l’enfant ou de son arrivée au foyer :
+
+## Cas : Enfant né ou arrivé au foyer entre le 1er janvier 2026 et le 30 juin 2026
+
+Le congé supplémentaire de naissance doit être pris entre le **1^er juillet 2026** et le **31 mars 2027**.
+
+## Cas : Enfant né prématurément avant le 1er janvier 2026
+
+En cas de naissance prématurée (en 2025) de l’enfant alors que la naissance était initialement prévue à partir du 1^er janvier 2026, le congé supplémentaire de naissance doit être pris entre le **1^er juillet 2026** et le **31 mars 2027**.
+
+## Cas : Enfant né ou arrivé au foyer à partir du 1er juillet 2026
+
+Le congé supplémentaire de naissance doit être pris dans les **9 mois** suivant la naissance de l’enfant ou son arrivée dans le foyer en cas d’adoption.
+
+### Exemple
+
+Dans le cas d’une naissance de l’enfant ou de son arrivée au foyer le 1^er juillet 2026, le congé doit être pris avant le 31 mars 2027.
+
+> **À savoir** : En cas de changement d'employeur, lorsque le salarié ou la salarié n'a pas épuisé ses droits à congé, il ou elle informe son nouvel employeur, dans un délai de **1 mois**, de la date de prise de la période de congé restante
+
+## Quelle démarche effectuer pour bénéficier du congé supplémentaire de naissance ?
+
+Pour bénéficier du congé supplémentaire de naissance, le salarié ou la salariée doit **informer son employeur** par **lettre recommandée avec avis de réception ou remise contre récépissé** avec un délai de prévenance de **1 mois** avant la date souhaitée de début du congé.
+
+Ce délai est réduit à **15 jours** lorsque le congé supplémentaire de naissance suit **immédiatement** le congé de paternité et d'accueil de l'enfant ou d'adoption **et** lorsque le salarié souhaite débuter son congé supplémentaire de naissance **au cours du mois suivant** la naissance de l'enfant ou de son arrivée au foyer.
+
+Le salarié ou la salariée doit préciser la durée du congé (1 ou 2 mois) et si le congé est fractionné.
+
+Un modèle de lettre est disponible :
+
+- Service/formulaire : Modèle de lettre - Congé supplémentaire de naissance : informer son employeur https://code.travail.gouv.fr/modeles-de-courriers/conge-supplementaire-de-naissance-comment-informer-son-employeur?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F39685
+Le salarié ou la salariée n’a aucune démarche à effectuer auprès de la CPAM (ou de la MSA pour les salariés qui dépendent du régime agricole). C’est l’employeur qui transmet à la CPAM ou à la MSA la demande de congé du salarié ou de la salariée en vue de son indemnisation.
+
+> **Attention** : L’employeur ne peut **pas** refuser au salarié ou à la salarié le congé supplémentaire de naissance si le délai de prévenance a été respecté.
+
+## Comment le congé supplémentaire de naissance est-il indemnisé ?
+
+Pendant le congé supplémentaire de naissance, le salarié ou la salariée ne perçoit pas de salaire.
+
+Le salarié ou la salariée perçoit une indemnisation**** versée par la CPAM ou par laMSA.
+
+L’indemnisation est **dégressive** :
+
+- 70 % du salaire net le premier mois,
+- 60 % du salaire net le second mois.
+
+L’indemnisation est effectuée dans la limite du plafond mensuel de la sécurité sociale pour le premier et le second mois, soit 4 005 € au maximum par mois.
+
+Lorsque le congé supplémentaire de naissance est consécutif au congé de maternité, au congé de paternité et d’accueil de l’enfant ou au congé d’adoption, le salaire de référence retenu est celui perçu pendant ces congés.
+
+Si le salarié ou la salariée reprend le travail entre 2 périodes de congé fractionné supplémentaire de naissance, le salaire de référence retenu est celui qui précède le congé.
+
+## Le congé supplémentaire de naissance est-il cumulable avec d’autres prestations sociales ?
+
+L’indemnisation du congé supplémentaire de naissance ne peut pas être cumulée avec les prestations suivantes :
+
+- Prestation partagée d'éducation de l'enfant (PreParE)
+- Allocation journalière du proche aidant (AJPA)
+- Allocation journalière de présence parentale (AJPP)
+- Indemnités journalières (maladie, accident du travail ou maladie professionnelle, maternité, paternité ou d’adoption)
+- Allocations chômage.
+
+## Quelle est la situation du salarié ou de la salariée pendant et après le congé supplémentaire de naissance ?
+
+Le congé supplémentaire de naissance entraîne la suspension du contrat de travail.
+
+Le salarié ou la salarié ne peut exercer aucune autre activité professionnelle pendant la durée du congé.
+
+Pendant le congé supplémentaire de naissance, l’employeur ne peut pas licencier le salarié ou la salariée.
+
+Toutefois, l'employeur peut rompre le contrat en cas de faute grave ou d'impossibilité de maintenir le contrat pour un motif autre que le congé supplémentaire de naissance.
+
+> **À noter** : Le salarié ou la salariée peut démissionner pendant son congé.
+
+La durée du congé supplémentaire de naissance est assimilée à une période de temps de travail effectif pour la détermination des droits à l'ancienneté.
+
+À la fin de son congé, le salarié ou la salariée retrouve son précédent emploi (ou un emploi similaire assorti d'une rémunération au moins équivalente).
+
+- Service/formulaire : Modèle de lettre - Congé supplémentaire de naissance : informer son employeur https://code.travail.gouv.fr/modeles-de-courriers/conge-supplementaire-de-naissance-comment-informer-son-employeur?src_url=https://www.service-public.gouv.fr/particuliers/vosdroits/F39685
+
+## Textes de référence
+
+- Code du travail : articles L1225-46-2 à L1225-46-7 — Congé supplémentaire de naissance https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000053271681/#LEGISCTA000053271681
+- Code du travail : article D1225-11-3 — Congé supplémentaire de naissance : délai de prise du congé https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054159547
+- Code du travail : article D1225-11-4 — Congé supplémentaire de naissance : délai de prévenance de l’employeur https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054159622?idSecParent=LEGISCTA000018537798
+- Code du travail : article D1225-11-5 — Congé supplémentaire de naissance : information de l’employeur par lettre recommandée avec avis de réception ou remise contre récépissé https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054159553/2026-06-03?idSecParent=LEGISCTA000018537798

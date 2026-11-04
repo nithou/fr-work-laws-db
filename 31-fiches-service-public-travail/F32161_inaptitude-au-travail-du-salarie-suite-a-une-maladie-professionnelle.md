@@ -1,0 +1,204 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F32161"
+titre: "Inaptitude au travail du salarié suite à une maladie professionnelle"
+theme: "Accueil particuliers > Travail - Formation > Licenciement d'un salarié du secteur privé pour motif personnel > Inaptitude au travail du salarié suite à une maladie professionnelle"
+date: "2025-05-23"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32161"
+---
+# Inaptitude au travail du salarié suite à une maladie professionnelle
+
+_Fiche service-public.fr F32161 — Accueil particuliers > Travail - Formation > Licenciement d'un salarié du secteur privé pour motif personnel > Inaptitude au travail du salarié suite à une maladie professionnelle — mise à jour 2025-05-23. https://www.service-public.gouv.fr/particuliers/vosdroits/F32161_
+
+Votre maladie professionnelle peut entraîner votre inaptitude à travailler sur votre poste. Dans ce cas, votre employeur vous propose un reclassement.
+
+À la suite d’une maladie professionnelle, le médecin du travail peut vous déclarer inapte à votre poste, totalement ou partiellement. Il peut toutefois vous juger apte à occuper un autre emploi adapté. Dans ce cas, votre employeur doit, sauf exception, vous proposer un reclassement. Quelles sont alors ses obligations ? Nous vous présentons les informations à connaître.
+
+> **Attention** : Il ne faut pas confondre l'inaptitude, qui est prononcée par le médecin du travail, et l'invalidité, qui est décidée par le médecin conseil de votre organisme de sécurité sociale (CPAM ou MSA).
+
+## Qui peut prendre l'initiative d'un rendez-vous avec le médecin du travail ?
+
+Ce rendez-vous peut être demandé pendant votre arrêt maladie soit par vous, soit par votre employeur.
+
+Pendant l’arrêt de travail, seule une **visite de pré-reprise** peut être organisée. Cette visite ne peut pas être demandée par l’employeur : elle est à l’initiative du salarié, du médecin traitant ou du médecin conseil de la Sécurité sociale.
+
+La **visite de reprise**, en revanche, est à l’initiative de l’employeur. Dès qu’il a connaissance de la date de fin de l’arrêt de travail, il doit saisir le service de santé au travail. L’examen doit avoir lieu le jour de la reprise effective ou, au plus tard, dans les 8 jours qui suivent.
+
+En cas de carence de l’employeur, le salarié peut lui-même solliciter une visite de reprise, à condition de l’en avoir informé préalablement.
+
+## Comment est reconnue l'inaptitude du salarié ?
+
+## Procédure préalable
+
+Votre inaptitude est obligatoirement établie par le **médecin du travail de l'entreprise**, et non par votre médecin traitant.
+
+Le médecin du travail va étudier votre état de santé (physique et/ou mental) pour déterminer si vous pouvez reprendre totalement ou en partie votre emploi. Si tel n'est pas le cas, il pourra vous déclarer inapte.
+
+Avant de rendre un avis d'inaptitude, le médecin du travail doit respecter les étapes suivantes :
+
+1. Réaliser un examen médical et éventuellement des examens complémentaires
+2. Réaliser une étude du poste (c'est-à-dire s'assurer que vos conditions de travail soient en adéquation avec votre état de santé)
+3. Réaliser une étude des conditions de travail dans l'établissement (avec indication de la date à laquelle la fiche d'entreprise a été actualisée)
+4. Échanger avec l'employeur pour connaître ses observations et lui faire part de ses propositions sur un éventuel changement de poste.
+
+Le médecin du travail peut demander des examens complémentaires et réaliser un 2ème examen médical, au plus tard 15 jours après le premier examen.
+
+Après ces étapes, le médecin du travail peut vous déclarer inapte à votre poste s'il constate qu'aucune mesure d'aménagement, d'adaptation ou de transformation du poste de travail occupé n'est possible et que votre état de santé justifie un changement de poste.
+
+## Avis d'inaptitude
+
+Si le médecin du travail vous déclare inapte à votre poste, il doit rédiger un avis d'inaptitude et vous en transmettre un exemplaire.
+
+L'avis d'inaptitude comporte des conclusions écrites et des indications concernant votre reclassement.
+
+Le médecin du travail peut mentionner dans l'avis d'inaptitude l'un des points suivants :
+
+- Tout maintien dans un emploi serait gravement préjudiciable pour votre santé
+- Votre état de santé rend impossible tout reclassement dans un emploi.
+
+L'employeur doit prendre en compte l'avis et les indications ou propositions du médecin du travail.
+
+S'il refuse, il vous adresse par écrit les raisons de son opposition. Il les communique également au médecin du travail.
+
+## Recours
+
+Vous (ou votre employeur) pouvez contester la décision rendue par le médecin du travail devant le conseil de prud'hommes dans un délai de 15 jours suivant la notification de l'avis d'inaptitude.
+
+Le conseil de prud'hommes peut consulter le médecin-inspecteur du travail.
+
+## Comment le salarié est-il reclassé ?
+
+## Obligation de reclassement
+
+Lorsque le médecin du travail vous a déclaré inapte à reprendre votre emploi d'origine, votre employeur doit vous proposer un autre emploi correspondant à vos capacités.
+
+Toutefois, votre employeur est dispensé de rechercher un poste pour vous reclasser si l'avis d'inaptitude mentionne l'un des points suivants :
+
+- Votre maintien dans un emploi serait gravement préjudiciable pour votre santé
+- Votre état de santé vous rend inapte à toute activité professionnelle.
+
+## Caractéristiques de l'emploi proposé
+
+La proposition de votre employeur doit prendre en compte, après avis du comité social et économique (CSE), les éléments suivants :
+
+- Conclusions écrites du médecin du travail
+- Indications qu'il a formulées sur vos capacités à exercer l'une des tâches existantes dans l'entreprise.
+
+Le médecin du travail se prononce également sur votre possibilité de suivre une formation pour occuper un emploi adapté.
+
+L'emploi proposé doit s'approcher le plus possible de l'emploi que vous occupiez avant votre arrêt de travail.
+
+Votre employeur met en œuvre, si nécessaire, des mesures telles que l'aménagement, l'adaptation ou la transformation de postes existants ou l'aménagement du temps de travail.
+
+Le reclassement doit être recherché parmi les emplois disponibles dans l'entreprise (tous établissements et tous secteurs confondus).
+
+Si l'entreprise appartient à un groupe, le reclassement doit aussi être recherché parmi les entreprises situées en France dont les activités, l'organisation ou le lieu d'exploitation permettent d'effectuer un échange de tout ou partie du personnel.
+
+Vous pouvez bénéficier d’un accompagnement externe dans votre recherche de reclassement, notamment par les services de santé au travail, Cap emploi ou France Travail.
+
+Si votre employeur est dans l'impossibilité de vous proposer un autre emploi, il doit vous faire connaître par écrit les motifs qui s'opposent au reclassement.
+
+Vous êtes **libre de refuser** l'emploi proposé.
+
+## Délai
+
+**Aucun délai** minimal ou maximal légal n'est imposé à votre employeur pour remplir son obligation de reclassement.
+
+## Quelle rémunération est perçue par le salarié pendant la période de reclassement ?
+
+L'employeur n'a pas à vous rémunérer au cours du 1^er mois de recherche d'un emploi. Toutefois, des dispositions conventionnelles contraires peuvent le prévoir.
+
+Vous avez droit au versement par la CPAM ou par la MSA d'une indemnité temporaire d'inaptitude (ITI). Son montant est égal au montant des indemnités journalières versées pendant votre arrêt de travail ayant précédé l'avis d'inaptitude.
+
+Si vous percevez une rente liée à votre accident du travail, le montant mensuel de la rente est déduit de l'ITI.
+
+Pour demander l'ITI, le médecin du travail vous remet un formulaire à 3 volets :
+
+- 1 volet à adresser sans délai à votre organisme de Sécurité sociale (volet 1)
+- 1 volet à remettre à votre employeur (volet 3)
+- 1 volet à conserver (volet 2).
+
+## Cas : Vous dépendez de la CPAM
+
+## Cas : Vous dépendez de la MSA
+
+Sur ce formulaire, vous devez attester sur l'honneur que vous ne percevez aucune rémunération liée à votre activité salariée pendant la durée de versement de l'indemnité. En effet, le versement de l'ITI n'est pas cumulable avec votre rémunération.
+
+L'ITI est versée, sans délai de carence, à partir du lendemain de la déclaration d'inaptitude. Elle est versée jusqu'à la date de votre reclassement ou licenciement mais au maximum pendant 1 mois.
+
+Passé ce délai, si vous n'êtes ni reclassé, ni licencié, votre employeur doit vous verser le salaire correspondant à l'emploi que vous occupiez avant votre inaptitude.
+
+> **À noter** : Si vous travaillez pour plusieurs employeurs, l'indemnité n'est versée que pour le poste de travail pour lequel vous êtes reconnu inapte.
+
+## Que se passe-t-il en cas de rupture du contrat alors que le salarié a été déclaré inapte ?
+
+## Cas : Vous êtes en CDI
+
+Vous pouvez être licencié pour inaptitude dans l'un des cas suivants :
+
+- Vous avez refusé l'emploi que votre employeur vous a proposé
+- Votre employeur justifie de l'impossibilité de vous proposer un emploi
+- L'avis mentionne que votre maintien dans un emploi serait gravement préjudiciable pour votre santé
+- L'avis mentionne que votre état de santé rend impossible tout reclassement dans un emploi
+
+Une fois le licenciement prononcé, vous avez droit sous certaines conditions, à des indemnités liée à la rupture de votre contrat. Celles-ci diffèrent selon que votre inaptitude soit d'origine professionnelle ou non (accident ou maladie de la vie courante).
+
+## Cas : Vous êtes en CDD
+
+Votre CDD peut être rompu de manière anticipée si l'une des conditions suivantes est remplie :
+
+- Vous avez refusé l'emploi que votre employeur vous a proposé
+- Votre employeur justifie de l'impossibilité de vous proposer un emploi
+- L'avis mentionne que votre maintien dans un emploi serait gravement préjudiciable pour votre santé
+- L'avis mentionne que votre état de santé rend impossible tout reclassement dans un emploi
+
+Une fois la rupture de votre contrat prononcée, vous avez droit sous certaines conditions, à des indemnités liée à cette rupture. Celles-ci diffèrent selon que votre inaptitude soit d'origine professionnelle ou non (accident ou maladie de la vie courante).
+
+## Assurance maladie - 3646
+
+Pour une information complémentaire concernant l'indemnisation par la CPAM
+
+Pour obtenir des renseignements sur vos droits et démarches, poser une question sur votre dossier, signaler un changement de situation, consulter vos remboursements ou encore vous procurer une attestation de droits.
+
+## Par téléphone
+
+**3646**
+
+Ouvert du lundi au vendredi.
+
+**Attention** : les horaires peuvent varier selon votre département.
+
+En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 17h30.
+
+Service gratuit + prix appel, depuis un téléphone fixe ou mobile.
+
+Depuis Mayotte, composez le 02 69 61 91 91 :
+
+- Du lundi au jeudi de 7h30 à 14h30
+- Le vendredi de 7h30 à 12h
+
+**Depuis l'étranger** : +33 1 84 90 36 46 (service gratuit + prix d'un appel).
+
+Pour faciliter les réponses et pour vous identifier,**pensez à vous munir de votre**carte Vitale avant d’appeler.
+
+## Par visio-interprétation (vous êtes sourd ou malentendant)
+
+Si vous êtes **sourd ou malentendant**, vous pouvez contacter un conseiller par visio-interprétation.
+
+## Mutualité sociale agricole (MSA)
+
+msa
+
+Caisse centrale de la mutualité sociale agricole (MSA)
+
+- Service/formulaire : Demande d'indemnité temporaire d'inaptitude https://www.formulaires.service-public.gouv.fr/gf/cerfa_14103.do
+
+## Textes de référence
+
+- Code du travail : articles L4624-10 à L4624-21 — Reconnaissance de l'inaptitude https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018493142/#LEGISCTA000033769026
+- Code du travail : articles L1226-10 à L1226-12 — Obligation de reclassement, rupture du contrat https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006195603
+- Code du travail : articles L1226-18 à L1226-22 — Obligation de reclassement https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006195605/#LEGISCTA000006195605
+- Code du travail : articles R4624-42 à R4624-44 — Reconnaissance de l'inaptitude https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033769137
+- Code du travail : articles R4624-45 à R4624-45-2 — Contestation de l'avis d'inaptitude https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000025274608/
+- Code de la sécurité sociale : articles D433-1 à D433-8 — Indemnité temporaire d'inaptitude (Iti) https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006155851/
+- Circulaire du 1er juillet 2010 relative à l'indemnisation du salarié déclaré inapte suite à un accident de travail ou une maladie professionnelle http://www.circulaires.gouv.fr/pdf/2010/07/cir_31349.pdf

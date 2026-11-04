@@ -1,0 +1,28 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F14039"
+titre: "Un employeur peut-il refuser ou reporter la demande de formation du salarié ?"
+theme: "Accueil particuliers > Travail - Formation > Formation des salariés du secteur privé > Un employeur peut-il refuser ou reporter la demande de formation du salarié ?"
+date: "2026-02-06"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F14039"
+---
+# Un employeur peut-il refuser ou reporter la demande de formation du salarié ?
+
+_Fiche service-public.fr F14039 — Accueil particuliers > Travail - Formation > Formation des salariés du secteur privé > Un employeur peut-il refuser ou reporter la demande de formation du salarié ? — mise à jour 2026-02-06. https://www.service-public.gouv.fr/particuliers/vosdroits/F14039_
+
+Oui, dans la plupart des cas, l'employeur peut refuser ou encore reporter la formation. Ce n'est pas le cas dans le cadre du CPF hors temps de travail.
+
+Oui, dans la plupart des cas, l'employeur peut refuser ou encore reporter la formation. Cependant, ce n'est pas le cas dans le cadre du compte personnel de formation (CPF) hors temps de travail.
+
+> **Attention** : Le salarié doit toujours respecter certaines formalités et délais pour effectuer sa demande.
+
+**Conditions d'acceptation d'une formation**
+
+| Catégorie | Accord ou non de l'employeur |
+|---|---|
+| Plan de développement des compétences | L'employeur est libre d'accepter ou non la demande de formation prévue par le plan.En pratique, celle-ci est rarement refusée. |
+| Période de reconversion | L'employeur doit donner son accord pour une période de reconversion. |
+| Compte personnel de formation (CPF) | Pendant le temps de travail, le salarié doit obtenir l'accord de son employeur.Hors temps de travail, le salarié n'a pas à demander l'accord de son employeur. |
+| Projet de transition professionnelle (PTP) | L'employeur accepte la demande de formation si les 3 conditions suivantes sont réunies :Le salarié justifie d'une ancienneté suffisanteLa demande est faite dans les tempsLa demande contient les mentions obligatoires.Cependant, il peut reporter la formation. C'est le cas s'il estime que l'absence du salarié peut avoir des conséquences préjudiciables à la production et à la marche de l'entreprise. Un tel report est décidé pour une durée maximale de 9 mois.L'employeur peut refuser la demande si le salarié ne respecte pas les conditions d'ancienneté ou de demande d'absence. |
+| Congé de formation des conseillers prud'homaux | L'employeur doit donner son accord à la demande de formation. |
+| Congé de formation d'un salarié membre du CSE en santé, sécurité et conditions de travailCongé de formation d'un animateur ou cadre de jeunesseCongé de formation économique, sociale, environnementale et syndicale | L'employeur peut reporterou refuser la demande du salarié pour raisons de nécessité de service ou d'effectifs (exemple : l'absence du salarié serait préjudiciable pour l'entreprise) faite pour un de ces congés. |

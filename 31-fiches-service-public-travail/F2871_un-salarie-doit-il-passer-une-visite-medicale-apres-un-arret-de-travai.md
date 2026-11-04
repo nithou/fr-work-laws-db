@@ -1,0 +1,77 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F2871"
+titre: "Un salarié doit-il passer une visite médicale après un arrêt de travail ?"
+theme: "Accueil particuliers > Travail - Formation > Maladie ou accident du travail dans le secteur privé > Un salarié doit-il passer une visite médicale après un arrêt de travail ?"
+date: "2026-08-31"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2871"
+---
+# Un salarié doit-il passer une visite médicale après un arrêt de travail ?
+
+_Fiche service-public.fr F2871 — Accueil particuliers > Travail - Formation > Maladie ou accident du travail dans le secteur privé > Un salarié doit-il passer une visite médicale après un arrêt de travail ? — mise à jour 2026-08-31. https://www.service-public.gouv.fr/particuliers/vosdroits/F2871_
+
+Un salarié doit, sauf exception, passer une visite médicale en cas d'arrêt maladie d'au moins 30 jours, de maladie professionnelle ou après un congé maternité.
+
+La visite médicale de reprise du travail n'est **pas systématique**.
+
+Dans quels cas la visite médicale de reprise est-elle obligatoire ?
+
+La a visite médicale de reprise est **obligatoire** si le salarié était en arrêt de travail pour l'un des motifs suivants :
+
+- Accident d'origine non professionnelle ou maladie d'origine non professionnelle ayant entraîné un arrêt de travail **d'au moins 60 jours**
+- Accident du travail ayant entraîné un arrêt **d'au moins 30 jours**
+- Maladie professionnelle (quelle que soit la durée de l'arrêt)
+- Congé de maternité.
+
+La visite médicale de reprise doit être organisée par le médecin du travail du service de prévention et de santé au travail à la demande de l'employeur. Elle doit avoir lieu dans les **8 jours calendaires** à compter de la reprise du travail du salarié.
+
+Cette visite a pour objectif de vérifier l'aptitude du salarié à reprendre son poste ou d'envisager des aménagements ou un reclassement si nécessaire.
+
+Dans quels cas la visite médicale de reprise n’est-elle pas nécessaire ?
+
+Pour les arrêts de travail délivrés depuis le 15 juin 2026, la visite de reprise n'est pas requise si **les 2 conditions suivantes sont réunies** :
+
+- Le salarié a bénéficié d'une visite de pré-reprise dans les 30 jours précédant sa reprise effective du travail
+- Lors de cette visite, le médecin du travail a conclu qu'aucune mesure individuelle d'aménagement, d'adaptation ou de transformation du poste ni aucune mesure d'aménagement du temps de travail n'était nécessaire en vue de la reprise.
+
+Cette dispense ne s'applique pas si le salarié, l'employeur ou le médecin du travail demande **que la visite de reprise ait lieu**.
+
+Qu’est ce qu’une visite de pré-reprise ?
+
+Une visite de pré-reprise peut être organisée pour les salariés en arrêt de travail **de plus de 30 jours**.
+
+Elle peut être demandée par l’une des personnes suivantes :
+
+- Salarié
+- Médecin traitant
+- Médecin conseil de la Sécurité sociale
+- Médecin du travail.
+
+Cette visite vise à anticiper les conditions de la reprise et à faciliter le retour à l'emploi.
+
+Lors de la visite de pré-reprise, le médecin du travail peut notamment recommander :
+
+- des aménagements ou adaptations du poste de travail,
+- des préconisations de reclassement,
+- des formations professionnelles destinées à faciliter le reclassement du salarié ou sa réorientation professionnelle.
+
+Le médecin du travail informe l'employeur de l'organisation de la visite de pré-reprise, sauf si le salarié s'y oppose.
+
+> **À savoir** : Il est possible, sous certaines conditions, d’effectuer la visite de reprise par **téléconsultation**. Le salarié et le médecin doivent donner leur consentement. De plus, les conditions techniques doivent permettre une communication claire et sécurisée (connexion vidéo et audio de qualité suffisante). Toutefois si, au cours de la téléconsultation, le médecin estime que les conditions ne sont pas réunies pour une évaluation complète, il peut décider d'annuler la séance et de la reprogrammer en présentiel.
+
+## Caisse régionale d'assurance maladie d'Île-de-France (Cramif)
+
+Si vous dépendez du régime général
+
+## Mutualité sociale agricole (MSA)
+
+Si vous dépendez du régime agricole
+
+msa
+
+Caisse centrale de la mutualité sociale agricole (MSA)
+
+## Textes de référence
+
+- Code du travail : article R4624-31 — Visite de reprise https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676892
+- Code du travail : articles R4624-41-1 à R4624-41-6 — Télésanté au travail https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018493188/#LEGISCTA000033769135

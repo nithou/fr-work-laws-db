@@ -1,0 +1,63 @@
+---
+source: "Code du travail"
+partie: "Partie législative"
+chemin: "Code du travail > Partie législative > Deuxième partie : Les relations collectives de travail > Livre II : La négociation collective - Les conventions et accords collectifs de travail > Titre VII : Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle"
+version_au: "2026-10-08"
+origine: "Légifrance / DILA (open data LEGI)"
+---
+# Code du travail > Partie législative > Deuxième partie : Les relations collectives de travail > Livre II : La négociation collective - Les conventions et accords collectifs de travail > Titre VII : Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle
+
+_Texte officiel en vigueur au 2026-10-08. 3 articles._
+
+## Chapitre Ier : Missions.
+
+###### Article L2271-1
+[Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600734)
+
+La Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle est chargée :
+
+1° De proposer au ministre chargé du travail toutes mesures de nature à faciliter le développement de la négociation collective, en particulier en vue d'harmoniser les définitions conventionnelles des branches ;
+
+2° D'émettre un avis sur les projets de loi, d'ordonnance et de décret relatifs aux règles générales portant sur les relations individuelles et collectives du travail, notamment celles concernant la négociation collective et les dispositifs d'intéressement, de participation et d'épargne salariale relevant du livre III de la troisième partie, ainsi que dans le domaine de la politique de l'emploi, de l'orientation et de la formation professionnelle initiale et continue ;
+
+3° De donner un avis motivé au ministre compétent sur l'extension et l'élargissement des conventions et accords collectifs ainsi que sur l'abrogation des arrêtés d'extension ou d'élargissement ;
+
+4° De donner, à la demande d'au moins la moitié des membres de la commission d'interprétation compétente préalablement saisie, un avis sur l'interprétation de clauses d'une convention ou d'un accord collectif ;
+
+5° De donner, après avoir pris connaissance du rapport annuel établi par un groupe d'experts désigné à cet effet, un avis motivé au ministre chargé du travail sur la fixation du salaire minimum de croissance dans les cas prévus par les articles [L. 3231-6](/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902836&dateTexte=&categorieLien=cid "Code du travail - art. L3231-6 (V)") et [L. 3231-10](/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902841&dateTexte=&categorieLien=cid "Code du travail - art. L3231-10 (V)") ;
+
+6° De suivre l'évolution des salaires effectifs et des rémunérations minimales déterminées par les conventions et accords collectifs ainsi que l'évolution des rémunérations dans les entreprises publiques ;
+
+7° D'examiner le bilan annuel de la négociation collective ;
+
+8° De suivre annuellement l'application dans les conventions collectives du principe " à travail égal salaire égal ", du principe de l'égalité professionnelle entre les femmes et les hommes et du principe d'égalité de traitement entre les salariés sans considération d'appartenance ou de non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, ainsi que des mesures prises en faveur du droit au travail des personnes handicapées, de constater les inégalités éventuellement persistantes et d'en analyser les causes. La Commission nationale a qualité pour faire au ministre chargé du travail toute proposition pour promouvoir dans les faits et dans les textes ces principes d'égalité ;
+
+9° De suivre annuellement l'évolution du taux d'activité des personnes de plus de cinquante ans afin de faire au ministre chargé du travail toute proposition de nature à favoriser leur maintien ou leur retour dans l'emploi ;
+
+10° D'émettre un avis sur :
+
+a) (Abrogé)
+
+b) L'agrément des accords d'assurance chômage mentionnés à l'article [L. 5422-20](/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903842&dateTexte=&categorieLien=cid "Code du travail - art. L5422-20 (V)") ;
+
+c) Les plans de formations organisés par l'Etat en application des I et II de l'article [L. 6122-1](/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903985&dateTexte=&categorieLien=cid "Code du travail - art. L6122-1 (V)").
+
+> NOTA : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+## Chapitre II : Organisation et fonctionnement.
+
+###### Article L2272-1
+[Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042654512)
+
+La Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle comprend des représentants de l'Etat, du Conseil d'Etat, ainsi que des représentants des organisations d'employeurs représentatives au niveau national et des organisations syndicales de salariés représentatives au niveau national.
+
+Lorsqu'elle est consultée dans le domaine de la politique de l'emploi, de l'orientation et de la formation professionnelle initiale et continue et sur les documents mentionnés au 10° de l'article [L. 2271-1](/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000042654516&dateTexte=&categorieLien=id "Code du travail - art. L2271-1 (VD)"), elle comprend également des représentants des régions, des départements et des collectivités ultra-marines.
+
+Lorsqu'elle est consultée sur les dispositifs d'intéressement, de participation et d'épargne salariale, elle comprend également des personnalités choisies en raison de leur compétence et de leur expérience.
+
+> NOTA : Conformément au II de l’article 148 de la loi n° 2020-1525 du 7 décembre 2020, les présentes dispositions entrent en vigueur le premier jour du sixième mois qui suit celui de la publication de la présente loi.
+
+###### Article L2272-2
+[Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037386825)
+
+Un décret en Conseil d'Etat détermine les modalités d'organisation et de fonctionnement de la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle.

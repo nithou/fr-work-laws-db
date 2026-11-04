@@ -1,0 +1,172 @@
+---
+source: "Service-public.fr (DILA)"
+id: "F171"
+titre: "Accident du travail : démarches à effectuer"
+theme: "Accueil particuliers > Travail - Formation > Maladie ou accident du travail dans le secteur privé > Accident du travail : démarches à effectuer"
+date: "2025-01-29"
+url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F171"
+---
+# Accident du travail : démarches à effectuer
+
+_Fiche service-public.fr F171 — Accueil particuliers > Travail - Formation > Maladie ou accident du travail dans le secteur privé > Accident du travail : démarches à effectuer — mise à jour 2025-01-29. https://www.service-public.gouv.fr/particuliers/vosdroits/F171_
+
+Si vous êtes victime d'un accident du travail, vous devez en informer (ou faire informer) votre employeur dans la journée ou au plus tard dans les 24 heures.
+
+Vous êtes salarié et avez été victime d'un accident du travail. Vous souhaitez savoir quelles sont les démarches à effectuer ? Nous vous présentons les informations à connaître.
+
+## Quelle démarche doit effectuer le salarié en cas d'accident du travail ?
+
+Dès lors que vous êtes victime d'un accident lié à votre travail, vous devez informer (ou faire informer) votre employeur de votre accident de travail par tout moyen (mail, téléphone, SMS,...).
+
+Cette démarche doit être faite **dans la journée** où s'est produit l'accident ou au plus tard dans les **24 heures**.
+
+Ce délai ne court pas en cas de force majeure ou d'impossibilité absolue ou de motif légitime (exemple : en cas d'hospitalisation).
+
+> **Attention** : Si l'information ne peut pas être faite sur le lieu de l'accident, elle doit être adressée par lettre recommandée.
+
+## Quelles démarches doit effectuer l'employeur en cas d'accident du travail ?
+
+## Déclaration d'accident
+
+C'est à votre employeur de déclarer votre accident de travail auprès de votre organisme de Sécurité sociale, la CPAM ou à la MSA, dans les **48 heures** (dimanches et jours fériés non compris).
+
+Il peut formuler des remarques argumentées sur le caractère professionnel ou non de l'accident.
+
+Toutefois, si vous constatez que votre employeur n'a pas accompli cette démarche, vous pouvez déclarer vous même l'accident à votre CPAM ou MSA **dans les 2 ans.** Votre organisme de Sécurité sociale vous informe par courrier de la réception de la déclaration d'accident.
+
+> **À savoir** : L’absence de déclaration ou une déclaration hors délai est passible d'une amende (au maximum de 750 € pour une personne physique ou de 3 750 € pour une personne morale).
+
+## Cas : Salarié du régime général
+
+### Cas : Sur internet
+
+Vous pouvez déclarer un accident du travail ou de trajet directement sur internet, via votre compte entreprise :
+
+- Service/formulaire : Déclaration d'accident du travail ou de trajet (DAT) en ligne https://www.net-entreprises.fr
+
+### Cas : Par correspondance
+
+Un formulaire est à remplir et à adresser à la CPAM ou à la MSA :
+
+- Service/formulaire : Déclarer un accident du travail ou de trajet https://www.ameli.fr/sites/default/files/formulaires/128/s6200_homol_ix_17_rempl.pdf
+
+## Cas : Travailleur intérimaire
+
+Un formulaire est à remplir et à adresser à la Carsat :
+
+- Service/formulaire : Information préalable à la déclaration d'accident du travail d'un intérimaire http://www.ameli.fr/fileadmin/user_upload/formulaires/S6209.pdf
+
+## Cas : Élève ou étudiant qui effectue un stage en entreprise
+
+Si l'accident concerne un élève ou étudiant qui effectue un stage en entreprise, l'organisme d'accueil du stagiaire doit adresser sans délai à l'établissement d'enseignement la copie de la déclaration d'accident de travail (DAT).
+
+## Obligation d'information de l'inspection du travail en cas d'accident mortel
+
+En cas d'accident de travail mortel, l'employeur doit informer immédiatement l'inspection du travail, et au plus tard dans les 12 heures suivant le décès. L'information doit être transmise par tout moyen (mail, lettre RAR) permettant de **conférer une date certaine** à l'envoi.
+
+Le non-respect de cette obligation est passible d'une amende de 1 500 € et de 3 000 € en cas de récidive.
+
+## Attestation de salaire
+
+Si l’accident donne lieu à un arrêt de travail, votre employeur adresse également à votre organisme de Sécurité sociale une attestation nécessaire au calcul des indemnités journalières auxquelles vous avez droit.
+
+Votre employeur doit préciser si le salaire est maintenu en totalité. Si c'est le cas, c'est l'employeur qui perçoit les indemnités journalières.
+
+Lors de votre reprise du travail, votre employeur doit établir une nouvelle attestation de salaire sur laquelle la date de reprise effective du travail doit être indiquée.
+
+## Feuille d'accident à remettre au salarié
+
+Votre employeur doit également vous remettre une **feuille d'accident**.
+
+Vous devez la présenter systématiquement (hôpital, pharmacie) pour bénéficier du tiers payant. Les frais médicaux liés à l'accident du travail sont remboursés à 100 % sans avance de frais.
+
+## Comment le salarié doit-il faire constater son accident de travail ?
+
+Vous devez faire constater votre état par le médecin de votre choix.
+
+Celui-ci établit un certificat médical (en 2 exemplaires) sur lequel il décrit les lésions, leur localisation, les symptômes et les séquelles éventuelles de l'accident.
+
+Le médecin adresse directement un de ces certificats à la CPAM ou la MSA et vous remet le 2^nd certificat (télétransmission possible).
+
+Le médecin délivre, si nécessaire, un certificat d'arrêt de travail. En cas de prolongation de votre arrêt de travail, le médecin établit un certificat médical de prolongation.
+
+## Comment se déroule la reconnaissance du caractère professionnel de l'accident ?
+
+## Délai
+
+Après réception de la déclaration d'accident et du certificat médical initial, votre organisme de Sécurité sociale a un délai de **30 jours** pour reconnaître ou non le caractère professionnel de votre accident.
+
+Si un examen ou une enquête complémentaire sont nécessaires, le délai d'instruction est prolongé de **2 mois**.
+
+## Examen ou enquête complémentaire
+
+En cas de réticence de la part de votre employeur sur le caractère professionnel de l'accident, ou si votre organisme de Sécurité sociale l'estime nécessaire, il peut être procédé aux démarches suivantes :
+
+- Soit à un examen (sous forme de questionnaire) des circonstances ou de la cause de l’accident auprès de l'employeur et de vous-même,
+- Soit à une enquête (en cas de décès du salarié, l'enquête est obligatoire).
+
+La CPAM ou la MSA vous informe de cette démarche, par lettre recommandée avec accusé de réception, avant l'expiration du délai d'instruction (30 jours).
+
+La CPAM ou la MSA peut aussi vous soumettre à un examen médical par un médecin conseil. Celui-ci a pour mission de s'assurer que votre arrêt de travail est justifié.
+
+## Décision de la CPAM ou de la MSA
+
+La décision argumentée de la CPAM ou de la MSA vous est notifiée personnellement (ou à vos ayants droit en cas de décès). Elle est également adressée à votre employeur et à votre médecin traitant.
+
+En l'absence de décision de la CPAM ou de la MSA dans le délai prévu, le caractère professionnel de l’accident est reconnu.
+
+## Quels sont les recours du salarié si le caractère professionnel de l'accident ou de la rechute n'est pas reconnu ?
+
+Si le caractère professionnel de l'accident ou de la rechute n'est pas reconnu, votre organisme de Sécurité sociale précise les voies et délais de recours.
+
+En cas de refus de la CPAM ou de la MSA, vous pouvez effectuer un recours. Pour ce faire, vous devez saisir la commission de recours amiable (CRA) par écrit (une lettre recommandée avec accusé de réception est à privilégier).
+
+## Cas : Cas général
+
+## Cas : Régime agricole
+
+## Comment est effectuée la prise en charge des frais médicaux du salarié en cas d'accident du travail ?
+
+Après notification de l'accident, votre employeur vous remet une feuille d'accident. Celle-ci vous permet de bénéficier de la **gratuité des soins liés à l'accident du travail.**
+
+Vous devez présenter cette feuille à chaque professionnel de santé consulté (médecin, infirmier, kinésithérapeute, pharmacien, etc.), qui y mentionne les actes effectués.
+
+Cette feuille est valable jusqu’à la fin du traitement.
+
+À la fin du traitement ou dès qu’elle est entièrement remplie, vous adressez cette feuille à votre CPAM ou à votre MSA. Votre organisme de Sécurité sociale vous en délivre une nouvelle si nécessaire.
+
+## Que se passe-t il pour le salarié en cas de rechute après une guérison d'une blessure causée par un accident du travail ?
+
+Après guérison ou consolidation de votre blessure, votre état de santé peut s’aggraver. On parle alors de rechute.
+
+Dans ce cas, vous devez déclarer votre rechute à votre organisme de Sécurité sociale en transmettant un certificat médical établi par votre médecin traitant.
+
+La CPAM ou la MSA transmet une copie de cette déclaration à votre employeur. Ce dernier peut émettre des remarques argumentées sur le lien entre la rechute et l’accident du travail initial.
+
+La CPAM ou la MSA fournit au salarié une nouvelle feuille d'accident.
+
+## Caisse primaire d'assurance maladie (CPAM)
+
+Si vous dépendez du régime général
+
+cpam
+
+Caisse nationale d'assurance maladie (Cnam)
+
+## Mutualité sociale agricole (MSA)
+
+Si vous dépendez du régime agricole
+
+msa
+
+Caisse centrale de la mutualité sociale agricole (MSA)
+
+- Service/formulaire : Déclarer un accident du travail ou de trajet https://www.ameli.fr/sites/default/files/formulaires/128/s6200_homol_ix_17_rempl.pdf
+- Service/formulaire : Feuille d'accident du travail ou de maladie professionnelle (spécimen) https://www.ameli.fr/sites/default/files/formualires/190/s6201.pdf
+- Service/formulaire : Attestation de salaire - Accident du travail ou maladie professionnelle https://www.ameli.fr/sites/default/files/formualires/88/s6202.pdf
+
+## Textes de référence
+
+- Code de la sécurité sociale : articles L441-1 à L441-6 — Démarches du salarié https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006172666/
+- Code de la sécurité sociale : articles R441-1 à R441-18 — Reconnaissance du caractère professionnel de l'accident https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006156663
+- Code de la sécurité sociale : articles R441-10 à R441-17 — Reconnaissance du caractère professionnel de l'accident https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038423381/
